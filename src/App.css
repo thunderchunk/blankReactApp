@@ -1,0 +1,12 @@
+.component-container-div{
+    padding-left: 20px;
+}
+
+.prop-span{
+    color: #2d8d20;
+    font-weight: bolder;
+}
+
+.state-span{
+    color: #146cb4;
+}
